@@ -1,5 +1,5 @@
 <!---->
-<div align="center">
+<div align="center" height="300px">
 <img src="./ReadMeFiles/app.jpg" align="center">
 </div>
 
