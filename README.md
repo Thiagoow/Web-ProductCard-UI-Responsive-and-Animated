@@ -9,4 +9,4 @@
 tendo como base o <a href="https://www.youtube.com/watch?v=AwRb8LX-szg">tutorial,</a> do canal do Youtube: 
 <a href="https://www.youtube.com/channel/UCLjtB1XNaiVz-brRDymb5gg">True Coder</a>
 
-## Demo: https://web-shoe-productcard-ui.netlify.app/
+## Demo: https://product-ui.vercel.app
